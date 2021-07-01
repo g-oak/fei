@@ -1,0 +1,23 @@
+.item-radio input {
+    display: none;
+}
+
+form {
+    display: inline-block;
+}
+
+/*label::before {
+    content: '';
+    color: red;
+    width: 10px;
+    height: 10px;
+    
+    display: inline-block;
+    margin: 5px;
+    border-radius: 50%;
+    border: 2px solid #000;
+}*/
+
+a::after {
+    content: ' [LINK]'
+}
